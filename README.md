@@ -40,7 +40,7 @@ This process ensures that citation keys follow a structured format, making it ea
 #### Option 1: Using the .exe File (Windows Only)
 
 1. **Ensure Python 3 is installed** on your computer.
-2. **Run the `main.exe` file** found in the `/dist` folder.
+2. **Run the `main.exe` file**.
 3. **Select the input `.bib` file** when prompted.
 4. **Choose an output file location** for the corrected `.bib` file.
 
